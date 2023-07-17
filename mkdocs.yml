@@ -19,25 +19,26 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
+site_name: OvoyLMS Documentation
 site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_author: SpaGreen Creative
 site_description: >-
   Write your documentation in Markdown and create a professional static site in
   minutes – searchable, customizable, in 60+ languages, for all devices
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name:
+repo_url:
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2023 Martin Donath
+copyright: Copyright &copy; 2019 - 2023 SpaGreen Creative
 
 # Configuration
 theme:
   name: material
   custom_dir: material/.overrides
   features:
+    - navigation.footer
     - announce.dismiss
     - content.action.edit
     - content.action.view
@@ -63,30 +64,28 @@ theme:
     # - toc.integrate
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: green
+      accent: green
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: indigo
+      primary: green
+      accent: green
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
   font:
-    text: Roboto
+    text: Jost
     code: Roboto Mono
   favicon: assets/favicon.png
-  icon:
-    logo: logo
+  logo: assets/logo.png
 
 # Plugins
 plugins:
+  - glightbox:
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - minify:
-      minify_html: true
 
 # Hooks
 hooks:
@@ -101,17 +100,11 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
-    - icon: fontawesome/brands/gitter
-      link: https://gitter.im/squidfunk/mkdocs-material
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
-    - icon: fontawesome/brands/python
-      link: https://pypi.org/project/mkdocs-material/
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk
+      link: https://github.com/spagreen
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/spagreencreative
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
+      link: https://twitter.com/spagreenbd
 
 # Extensions
 markdown_extensions:
@@ -159,51 +152,29 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Getting started:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Browser support: browser-support.md
-    - Philosophy: philosophy.md
-    - Alternatives: alternatives.md
-    - License: license.md
-    - Changelog:
-      - changelog/index.md
-      - How to upgrade: upgrade.md
-    - Contributing:
-      - contributing/index.md
-      - Reporting a bug: contributing/reporting-a-bug.md
-      - Reporting a docs issue: contributing/reporting-a-docs-issue.md
-      - Requesting a change: contributing/requesting-a-change.md
-      - Asking a question: https://github.com/squidfunk/mkdocs-material/discussions
-    - Guides:
-      - Creating a reproduction: guides/creating-a-reproduction.md
+    - Introducing: getting-started.md
+    - Requirements: requirements.md
+    - Installation: installation.md
   - Setup:
-    - setup/index.md
-    - Changing the colors: setup/changing-the-colors.md
-    - Changing the fonts: setup/changing-the-fonts.md
-    - Changing the language: setup/changing-the-language.md
-    - Changing the logo and icons: setup/changing-the-logo-and-icons.md
-    - Ensuring data privacy: setup/ensuring-data-privacy.md
-    - Setting up navigation: setup/setting-up-navigation.md
-    - Setting up site search: setup/setting-up-site-search.md
-    - Setting up site analytics: setup/setting-up-site-analytics.md
-    - Setting up social cards: setup/setting-up-social-cards.md
-    - Setting up a blog: setup/setting-up-a-blog.md
-    - Setting up tags: setup/setting-up-tags.md
-    - Setting up versioning: setup/setting-up-versioning.md
-    - Setting up the header: setup/setting-up-the-header.md
-    - Setting up the footer: setup/setting-up-the-footer.md
-    - Adding a git repository: setup/adding-a-git-repository.md
-    - Adding a comment system: setup/adding-a-comment-system.md
-    - Building an optimized site: setup/building-an-optimized-site.md
-    - Building for offline usage: setup/building-for-offline-usage.md
-    - Extensions:
-      - setup/extensions/index.md
-      - Python Markdown: setup/extensions/python-markdown.md
-      - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
-    - Dependencies:
-      - setup/dependencies/image-processing.md
+      - setup/index.md
+      - General Setting: setup/general.md
+      - Preference: setup/preference.md
+      - Email Setting: setup/email.md
+      - Currency Setting: setup/currency.md
+      - Language Setting: setup/language.md
+      - Cache Setting: setup/cache.md
+      - Admin Panel Setting: setup/admin-panel.md
+      - Storage Setting: setup/storage.md
+      - Firebase Setting: setup/firebase.md
+      - Chat Setting: setup/chat.md
+      - Misc. Setting: setup/misc.md
+      - Payment Gateway:
+        - setup/payment-gateway.md
+  - Developer Guide:
+      - developer-docs.md
+  - Addon:
+      - Basic: addon/basic.md
+      - Development: addon/development.md
   - Reference:
     - reference/index.md
     - Admonitions: reference/admonitions.md

@@ -1,6 +1,6 @@
 ---
 template: home.html
-title: Material for MkDocs
+title: Technical Documentation
 ---
 
 Welcome to Material for MkDocs.

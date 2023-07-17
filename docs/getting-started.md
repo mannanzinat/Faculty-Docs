@@ -1,3 +1,19 @@
+# Introduction
+
+[OvoyLMS](https://spagreen.net/ovoylms-learning-management-system/) is a comprehensive online learning management system designed to streamline your online education business. With a wide array of features, [OvoyLMS](https://spagreen.net/ovoylms-learning-management-system/) empowers instructors and students to connect and collaborate, fostering a vibrant knowledge-sharing environment.
+
+Instructors using [OvoyLMS](https://spagreen.net/ovoylms-learning-management-system/) have the freedom to create an unlimited number of video courses, live classes, text-based courses, projects, quizzes, and share various files. This versatile platform allows instructors to curate educational content tailored to their expertise, enabling them to effectively impart knowledge and skills to their students.
+
+For students, [OvoyLMS](https://spagreen.net/ovoylms-learning-management-system/) provides a rich learning experience. They gain access to a diverse range of educational materials, empowering them to enhance their skill levels and broaden their knowledge base. With [OvoyLMS](https://spagreen.net/ovoylms-learning-management-system/), students can engage with interactive course content, participate in quizzes, and explore supplementary resources.
+
+Developed with a focus on real business needs, cultural nuances, and extensive user research, [OvoyLMS](https://spagreen.net/ovoylms-learning-management-system/) is specifically designed to meet your unique business requirements. By efficiently addressing the demands of diverse industries and learner profiles, [OvoyLMS](https://spagreen.net/ovoylms-learning-management-system/) ensures that your online education business can thrive in today's competitive landscape.
+
+### Building Technology
+
+- Backend Framework: PHP/Laravel 10x
+- Frontend Framework:  HTML/Jquery
+
+
 # Getting started
 
 Material for MkDocs is a theme for [MkDocs], a static site generator geared
@@ -60,11 +76,11 @@ install those packages separately.
 ---
 
 :fontawesome-brands-youtube:{ style="color: #EE0F0F" }
-__[How to set up Material for MkDocs]__ by @james-willett – :octicons-clock-24:
+__[I want to learn more about OvoyLMS]__ by @james-willett – :octicons-clock-24:
 15m – Learn how to create and host a documentation site using Material for 
 MkDocs on GitHub Pages in a step-by-step guide.
 
-  [How to set up Material for MkDocs]: https://www.youtube.com/watch?v=Q-YA_dA8C20
+  [I want to learn more about OvoyLMS]: https://www.youtube.com/@spagreen
 
 ---
 
