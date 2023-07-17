@@ -5,7 +5,7 @@ sidebar_label:  Setup language
 
 # Setup language
 
-![OvoyLMS](assets/ovoy/Screenshot_17-1-1024x367.png)
+![OvoyLMS](/assets/ovoy/language settings.png)
 
 To configure **Language** follow the procedure mentioned below:
 

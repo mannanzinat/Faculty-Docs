@@ -20,7 +20,7 @@
 
 # Project information
 site_name: OvoyLMS Documentation
-site_url: https://squidfunk.github.io/mkdocs-material/
+site_url:
 site_author: SpaGreen Creative
 site_description: >-
   Write your documentation in Markdown and create a professional static site in
@@ -159,14 +159,15 @@ nav:
       - setup/index.md
       - General Setting: setup/general.md
       - Preference: setup/preference.md
-      - Email Setting: setup/email.md
       - Currency Setting: setup/currency.md
+      - Email Setting: setup/email.md
       - Language Setting: setup/language.md
       - Cache Setting: setup/cache.md
       - Admin Panel Setting: setup/admin-panel.md
-      - Storage Setting: setup/storage.md
       - Firebase Setting: setup/firebase.md
+      - Storage Setting: setup/storage.md
       - Chat Setting: setup/chat.md
+      - Refund Setting: setup/refund.md
       - Misc. Setting: setup/misc.md
       - Payment Gateway:
         - setup/payment-gateway.md
