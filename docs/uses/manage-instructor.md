@@ -1,16 +1,44 @@
 ---
 title:   Manage Instructor
-sidebar_label:    Manage Levels
+sidebar_label:    Manage Instructor
 ---
 
-# Manage Levels
-To Manage **Levels** follow the procedures…
+
+# Manage Instructor
+To Manage **Instructor** follow the procedures…
 
 
-- Go to **Admin Panel** &  click **Course**
-- Then go to **Levels** and here we can add new course with **Basic Information, Media & Images, Pricing, SEO** etc.
+ Manage instructor from the **Manage Instructor** in the left menu of the admin area.
 
-![OvoyLMS](/assets/ovoy/levels.png)
-![OvoyLMS](/assets/ovoy/add_new_level.png)
+&nbsp;
+
+**Search Instructor**
+
+ You can search instructor by name and email.
+
+
+**Update Status**
+
+ You can update status of instructor by tapping status button.
+
+
+**Delete Instructor**
+
+You can delete an instructor by clicking Delete icon from right button. 
+- When an instructor is deleted, all of their credentials and message are automatically deleted permanently.
+- If an instructor of deleted suer come back to the website, a new instructor registration required .
+
+
+**Instructor Permission**
+
+You can controll permission of instructor. Based on permission user will can perform their activity . 
+
+
+
+
+ Here you can view all instructors and add new instructor with instructor Information .
+
+
+![OvoyLMS](/assets/ovoy/instructor_list.png)
 
 

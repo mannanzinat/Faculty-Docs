@@ -7,10 +7,28 @@ sidebar_label:    Manage Students
 To Manage **Students** follow the procedures…
 
 
-- Go to **Admin Panel** &  click **Manage Students**
-- Here we can view all students list and add new student with **Students Information** etc.
+ Manage students from the **Manage Students** in the left menu of the admin area.
 
-![OvoyLMS](/assets/ovoy/student_list.png)
-![OvoyLMS](/assets/ovoy/create_student.png)
+&nbsp;
+
+**Search Students**
+
+ You can search students by name, surname and email.
+
+
+**Update Status**
+
+ You can update status of students by tapping status button.
+
+
+
+
+ Here you can view all students list and add new student with students Information etc.
+
+![OvoyLMS](/assets/ovoy/manage_students.png)
+
+**Add Students**
+
+![OvoyLMS](/assets/ovoy/add_student.png)
 
 

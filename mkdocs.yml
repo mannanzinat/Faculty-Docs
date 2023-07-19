@@ -187,7 +187,6 @@ nav:
       - Manage Instructors:
         - uses/manage-instructor.md
         - uses/add-instructor.md
-        - uses/expertises.md
 
       - Manage Organization:
         - uses/manage-organization.md
@@ -211,7 +210,7 @@ nav:
     - Getting started:
       - Installation: insiders/getting-started.md
       - Changelog: insiders/changelog.md
-      
+
   - Blog:
     - blog/index.md
     - 2022:

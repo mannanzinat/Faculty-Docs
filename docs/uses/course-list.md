@@ -6,9 +6,16 @@ sidebar_label:    Manage Course List
 # Manage Course List
 To Manage **Course List** follow the procedures…
 
+Manage Course List from the **Course** in the left menu of the admin area.
 
-- Go to **Admin Panel** &  click **Course**
-- Then go to **Course List** and here we can add new course with **Basic Information, Media & Images, Pricing, SEO** etc.
+&nbsp;
+
+**Search Course**
+
+You can search course by name & instructor name . You can also filter course by select category, select organization, instructor & course status.
+
+
+- Also you can add new course with **Basic Information, Media & Images, Pricing, SEO** etc.
 
 ![OvoyLMS](/assets/ovoy/course_list.png)
 ![OvoyLMS](/assets/ovoy/add_course_basic_info.png)
