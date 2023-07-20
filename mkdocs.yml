@@ -171,7 +171,7 @@ nav:
       - Misc. Setting: setup/misc.md
       - Payment Gateway:
         - setup/payment-gateway.md
-  - Uses:
+  - Usegs:
       - uses/index.md
       - Course:
         - uses/course-list.md
@@ -199,12 +199,8 @@ nav:
       - Media Library:
         - uses/media-library.md
 
-  - Developer Guide:
-      - developer-docs.md
-  - Addon:
-      - Basic: addon/basic.md
-      - Development: addon/development.md
-
+  - Changelog:
+      - insiders/changelog.md
   - Insiders:
     - insiders/index.md
     - Getting started:
