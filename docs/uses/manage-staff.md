@@ -1,16 +1,35 @@
 ---
 title:   Manage Staff
-sidebar_label:    Manage Category
+sidebar_label:    Manage Staff
 ---
 
-# Manage Course category
-To Manage **Course Category** follow the procedures…
+# Manage Staff
+To Manage **Staff** follow the procedures…
+
+ Manage Staff from the **Staff** in the left menu of the admin area.
+
+&nbsp;
+
+**Search Staff**
+
+ You can search Staff by their name.
 
 
-- Go to **Admin Panel** &  click **Course**
-- Then go to **Category** and here we can add and manage category with **Title, Order, Select Parent Category, Image, Meta Title, Meta Keywords, Meta Description** etc.
+**Update Status**
 
-![OvoyLMS](/assets/ovoy/course_categories.png)
-![OvoyLMS](/assets/ovoy/create_new_category.png)
+ You can update status of staff by tapping status button.
+
+
+**Delete Staff**
+
+You can delete any staff by clicking Delete icon from right button. 
+- When a staff is deleted, all of their credentials and activity are automatically deleted permanently. - If an Staff of deleted Staff come back to the website, a new Staff registration is required.
+
+
+ Here you can view all Staff list and add new Staff with appropriate Information .
+
+
+![OvoyLMS](/assets/ovoy/manage-staff.png)
+![OvoyLMS](/assets/ovoy/add-staff.png)
 
 
