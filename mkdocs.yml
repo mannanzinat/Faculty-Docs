@@ -201,6 +201,17 @@ nav:
 
   - Changelog:
       - insiders/changelog.md
+
+      - Website Settings:
+        - uses/website-settings.md
+
+
+  - Developer Guide:
+      - developer-docs.md
+  - Addon:
+      - Basic: addon/basic.md
+      - Development: addon/development.md
+
   - Insiders:
     - insiders/index.md
     - Getting started:
