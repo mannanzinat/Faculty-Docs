@@ -199,6 +199,11 @@ nav:
       - Media Library:
         - uses/media-library.md
 
+
+      - Website Settings:
+        - uses/website-settings.md
+
+
   - Developer Guide:
       - developer-docs.md
   - Addon:
