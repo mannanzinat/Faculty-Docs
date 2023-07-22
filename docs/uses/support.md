@@ -32,3 +32,6 @@ You can add new ticket by adding first name, last name, email, subject, departme
 **Department**
 
 Here you can see all department list and can add new department with department title and status.
+
+
+![OvoyLMS](/assets/ovoy/all_tickets.png)

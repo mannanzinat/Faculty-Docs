@@ -36,7 +36,7 @@ From **Header Content** you will get three submenu. Using **Logo** section you c
 
 From **Hero Section** you can chnage the **Title**, **Subtitle**, **Description** by your own.There is also a **Language** switching option available.
 
-![OvoyLMS](/assets/ovoy/Header_Content.png)
+![OvoyLMS](/assets/ovoy/website_settings_hero_section.png)
 
  **Footer Content**:
 
@@ -90,3 +90,5 @@ From using **Facebook Pixel** option you can modify the pixel of facebook.
 **Home Page Builder**
 
 From **Home Page Builder** you can add different types of section such as **Top Section**,**Success Story**, **Subject**, **Single course**, **Blog News**, **Featured course** and so on.
+
+![OvoyLMS](/assets/ovoy/homepage_builder.png)

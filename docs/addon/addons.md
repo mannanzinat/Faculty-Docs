@@ -21,13 +21,10 @@ To Manage **Addons** follow the procedures…
  Here you can see all installed addons
 
 
-
 **Upload Addon**
 
  You can upload new addon by providing purchase code and addon file .
 
 
 
-**Upload Status**
-
- You can update addon status by tapping status switch .
+![OvoyLMS](/assets/ovoy/addons.png)
