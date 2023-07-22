@@ -190,7 +190,7 @@ nav:
         - uses/add-organization.md
       - Manage Staff:
         - uses/manage-staff.md
-        - uses/add-roles.md
+        - uses/roles.md
       - Media Library:
         - uses/media-library.md
       - All Pages:
@@ -204,7 +204,7 @@ nav:
       - Packages:
         - uses/packages.md
       - Payout:
-        - uses/payouts.md
+        - uses/payout.md
       - Notification:
         - uses/notification.md
       - Support:
@@ -223,19 +223,8 @@ nav:
       - SMS & OTP:
         - uses/sms-otp.md
 
-      - System Settings:
-        - uses/system-settings.md
-
   - Utility:
-      - users/system-update.md
-      - users/server-information.md
+      - utility/utility.md
 
   - Addon:
-      - Basic: addon/basic.md
-      - Development: addon/development.md
-
-  - Insiders:
-    - insiders/index.md
-    - Getting started:
-      - Installation: insiders/getting-started.md
-      - Changelog: insiders/changelog.md
+      - Addon: addon/addons.md
