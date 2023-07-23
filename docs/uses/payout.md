@@ -4,20 +4,29 @@ sidebar_label:    Payout
 ---
 
 
- **Payout Method**
+ **Payout**
 
-To Manage Payout Method follow the procedures…
+From admin panel there is **Payout** option which contain three option.
 
-Update activation status of Payout methods.  
+**Payout Method**
+
+In **Payout Method** option there are three payout method with a status activation button.using this button the payout status will be avtive/inactive.
+
+![OvoyLMS](/assets/ovoy/payout_method.png)
 
 &nbsp;
 
 
 **payout Request**
-Select organization, Select Payout method, add amount. 
 
+In **payout Request** user need to provide the the information of **Organization**, **Payment Method**, **Amount** for requesting  a payment methaod.
 
+![OvoyLMS](/assets/ovoy/payout_request.png)
+
+&nbsp;
 
 **Payout Request List**
- To watch previously requested payout list from “Payout Request List” menu from left side of admin area.
+ 
+ In **Payout Request List** all the privious payout request is shown.
 
+ ![OvoyLMS](/assets/ovoy/payout_request_list.png)
