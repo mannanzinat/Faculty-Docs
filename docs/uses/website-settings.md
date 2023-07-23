@@ -10,8 +10,6 @@ To Manage **Website Settings** follow the procedures…
 - Go to **Admin Panel** &  click **Website Settings**
 - Then go to **Website Settings** and explore.
 
-![OvoyLMS](/assets/ovoy/website_themes.png)
-
 After Explore you can find the below submenu:
 
  **Website Themes**:
@@ -24,7 +22,7 @@ From **Website Themes** you can choose your website theme which is inclding your
 
 From **Theme Options** you can chnage the **Headers** which is contain three diffferent types of design and can chnage the **Footers**. You can customize your site by using **Typography Seting**, **Color setting**, **Favicon** and also can choose your website loader using **Preloader logo**.
 
-![OvoyLMS](/assets/ovoy/Theme_options.png)
+![OvoyLMS](/assets/ovoy/theme_options.png)
 
  **Header Content**:
 

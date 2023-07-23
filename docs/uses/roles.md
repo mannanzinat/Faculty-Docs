@@ -18,6 +18,5 @@ Add role have different role section like Roles, Badge, Blog Categories, Cities,
 Coupons, Languages, Services, Staff and Organization.
 
 ![OvoyLMS](/assets/ovoy/stuff_roles.png)
-![OvoyLMS](/assets/ovoy/create_new_category.png)
 
 

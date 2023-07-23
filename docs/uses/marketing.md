@@ -25,8 +25,14 @@ To Manage **Marketing** follow the procedures…
 
  Here you can view all ticket list and add new notification with appropriate Information.
 
+ ![OvoyLMS](/assets/ovoy/subscribers.png)
+
+
 
 
 **Bulk SMS**
 
 Here you can select user and send custom message .
+
+![OvoyLMS](/assets/ovoy/bulk_sms.png)
+
