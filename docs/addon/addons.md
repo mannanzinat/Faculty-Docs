@@ -1,6 +1,3 @@
-
-
-
 ---
 title:   Manage Addons
 sidebar_label:    Manage Addons
