@@ -25,7 +25,7 @@ To Manage **Students** follow the procedures…
 
  Here you can view all students list and add new student with students Information etc.
 
-![OvoyLMS](/assets/ovoy/manage_students.png)
+![OvoyLMS](/assets/ovoy/all_student.png)
 
 **Add Students**
 
