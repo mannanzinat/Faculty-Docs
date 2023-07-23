@@ -4,12 +4,11 @@ sidebar_label:    Manage Organization
 ---
 
 # Manage Organization
-To Manage **Organization** follow the procedures…
+To Manage **Organization** from admin panel there are two option.
 
+**Organisation List**
 
-- Go to **Admin Panel** &  click **Manage Organization**
-- Then go to **Organization List** and explore.
+From **Organization List** user can see the privious added organisation list.
 
-![OvoyLMS](/assets/ovoy/organization_list.png)
-
+![OvoyLMS](/assets/ovoy/organisation_list.png)
 
