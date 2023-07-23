@@ -35,3 +35,9 @@ Here you can see all department list and can add new department with department 
 
 
 ![OvoyLMS](/assets/ovoy/all_tickets.png)
+
+![OvoyLMS](/assets/ovoy/add_new_ticket.png)
+
+
+![OvoyLMS](/assets/ovoy/ticket_details.png)
+
