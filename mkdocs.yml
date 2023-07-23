@@ -180,43 +180,51 @@ nav:
         - uses/course-tags.md
         - uses/course-levels.md
         - uses/certificates.md
-
       - Manage Students:
         - uses/manage-students.md
-
       - Manage Instructors:
         - uses/manage-instructor.md
         - uses/add-instructor.md
-
       - Manage Organization:
         - uses/manage-organization.md
         - uses/add-organization.md
-
       - Manage Staff:
         - uses/manage-staff.md
-        - uses/add-roles.md
-
+        - uses/roles.md
       - Media Library:
         - uses/media-library.md
+      - All Pages:
+        - uses/all-pages.md
+      - Blog:
+        - uses/blog.md
+      - Payment Gateway:
+        - uses/payment-gateway.md
+      - Refund:
+        - uses/refund.md
+      - Packages:
+        - uses/packages.md
+      - Payout:
+        - uses/payout.md
+      - Notification:
+        - uses/notification.md
+      - Support:
+        - uses/support.md
+      - Marketing:
+        - uses/marketing.md
+      - Reports:
+        - uses/reports.md
+      - Mobile App Settings:
+        - uses/mobile-app-settings.md
+      - CMS:
+        - uses/cms.md
+      - Website Settings:
+        - uses/website-settings.md
 
-  - Developer Guide:
-      - developer-docs.md
+      - SMS & OTP:
+        - uses/sms-otp.md
+
+  - Utility:
+      - utility/utility.md
+
   - Addon:
-      - Basic: addon/basic.md
-      - Development: addon/development.md
-
-  - Insiders:
-    - insiders/index.md
-    - Getting started:
-      - Installation: insiders/getting-started.md
-      - Changelog: insiders/changelog.md
-
-  - Blog:
-    - blog/index.md
-    - 2022:
-      - blog/posts/blog-support-just-landed.md
-      - blog/posts/chinese-search-support.md
-    - 2021:
-      - blog/posts/the-past-present-and-future.md
-      - blog/posts/excluding-content-from-search.md
-      - blog/posts/search-better-faster-smaller.md
+      - Addon: addon/addons.md

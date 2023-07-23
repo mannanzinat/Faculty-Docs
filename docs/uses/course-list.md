@@ -1,21 +1,36 @@
 ---
-title:   Manage Course List
-sidebar_label:    Manage Course List
+title:   Manage Course
+sidebar_label:    Manage Course
 ---
 
-# Manage Course List
-To Manage **Course List** follow the procedures…
+# Manage Course
 
-Manage Course List from the **Course** in the left menu of the admin area.
+ Manage Course from the **Course List** in the left menu of the admin area.
 
 &nbsp;
 
 **Search Course**
 
-You can search course by name & instructor name . You can also filter course by select category, select organization, instructor & course status.
+ You can search course by course name and instructor name.
 
 
-- Also you can add new course with **Basic Information, Media & Images, Pricing, SEO** etc.
+**Filter Course**
+
+ You can filter course by selecting category, organisation, instructor and course status .
+
+
+**Update Status**
+
+ You can update status of course by tapping status button.
+
+
+**Delete Course**
+
+You can delete any course by clicking Delete icon from right button. 
+- When a course is deleted, all of their contents and related docs are automatically deleted permanently.
+
+
+-Here you can view all course and also you can add new course with **Basic Information, Media & Images, Pricing, SEO** etc.
 
 ![OvoyLMS](/assets/ovoy/course_list.png)
 ![OvoyLMS](/assets/ovoy/add_course_basic_info.png)
