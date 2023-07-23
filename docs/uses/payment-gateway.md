@@ -6,6 +6,8 @@ sidebar_label:    Payment Gateway
 
  **Payment Methods**
 
-Find a list of Payment Methods here. By clicking “Setting” button, set payment method related credentials. Also set payment method status active/inactive. 
+All the Payment methods are listed in **Payment Methods** option and set the payment status by using an active/inactive button. For providing payment related credential use “Setting” button.
+
+![OvoyLMS](/assets/ovoy/payment_method.png)
 
 &nbsp;
