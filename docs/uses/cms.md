@@ -17,9 +17,14 @@ To Manage **CMS** follow the procedures…
 
 Here You can find all listed success story.
 
+
+![OvoyLMS](/assets/ovoy/success_story.png)
+
+
 **Search Success Story**
 
  Here you can search success story by title.
+
 
 
 **Add New**
@@ -40,9 +45,14 @@ Here You can find all listed success story.
  You can delete any success story by clicking Delete icon from right, When a success story is deleted, full success story automatically deleted permanently .
 
 
+ 
+
+
 **Testimonials**
 
  Here You can find all listed testimonial.
+
+ ![OvoyLMS](/assets/ovoy/testimonial.png)
 
 **Search testimonial Story**
 
