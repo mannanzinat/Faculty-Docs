@@ -1,14 +1,34 @@
 ---
-title:   Manage Course Tag
-sidebar_label:    Manage Course Tag
+title:   Manage Tag
+sidebar_label:    Manage Tag
 ---
 
-# Manage Course List
-To Manage **Course List** follow the procedures…
+
+# Manage Tag
+To Manage **Tag** follow the procedures…
+
+ Manage Tag from the **Course** in the left menu of the admin area.
+
+&nbsp;
+
+**Search Tag**
+
+ You can search tag by tag name.
 
 
-- Go to **Admin Panel** &  click **Course**
-- Then go to **Course List** and here we can add new course with **Basic Information, Media & Images, Pricing, SEO** etc.
+
+**Update Status**
+
+ You can update status of tag  by tapping status button.
+
+
+**Delete Tag**
+
+You can delete any tag by clicking Delete icon from right button. 
+- When a tag is deleted, it will automatically deleted permanently.
+
+
+ Here you can view all tag list and add new tag with appropriate Information .
 
 ![OvoyLMS](/assets/ovoy/tags.png)
 ![OvoyLMS](/assets/ovoy/add_new_tag.png)

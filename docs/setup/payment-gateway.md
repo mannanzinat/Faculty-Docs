@@ -5,7 +5,6 @@ sidebar_label:   Setup payment gateway
 
 # Setup payment gateway
 
-![Docusaurus Plushie](../../../static/yoori/Screenshot_29-1024x304.png)
 
 To setup **Payment Gateway** follow the procedures…
 
@@ -19,3 +18,6 @@ To setup **Payment Gateway** follow the procedures…
   - **SSlCommerz** – Insert the **SSLCZ store ID**, **SSLCZ store password** and switch off the sandbox mode. Then click on **save**.
   - **JazzCash** – Insert the **Merchant Id**, **JazzCash Password**, **Integrity Salt** which you will get from your **JazzCash account**.
   - **Paytm** – Insert the **Merchant Id**, **MarChant Key**, **MarChant Website**, **Channel**, **Industry Type**,  which you will get from your **Paytm account**.
+
+
+![OvoyLMS](/assets/ovoy/payment_gateway.png)

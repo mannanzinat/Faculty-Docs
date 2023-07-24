@@ -1,14 +1,34 @@
 ---
-title:   Manage Levels
-sidebar_label:    Manage Levels
+title:   Manage Lavels
+sidebar_label:    Manage Lavels
 ---
 
-# Manage Levels
-To Manage **Levels** follow the procedures…
+
+# Manage Lavels
+To Manage **Lavels** follow the procedures…
+
+ Manage lavels from the **Course** in the left menu of the admin area.
+
+&nbsp;
+
+**Search Tag**
+
+ You can search lavels by lavel name.
 
 
-- Go to **Admin Panel** &  click **Course**
-- Then go to **Levels** and here we can add new course with **Basic Information, Media & Images, Pricing, SEO** etc.
+
+**Update Status**
+
+ You can update status of lavels by tapping status button.
+
+
+**Delete lavel**
+
+You can delete any lavel by clicking Delete icon from right button. 
+- When a lavel is deleted, it will automatically deleted permanently.
+
+
+ Here you can view all lavel list and add new lavel with appropriate Information .
 
 ![OvoyLMS](/assets/ovoy/levels.png)
 ![OvoyLMS](/assets/ovoy/add_new_level.png)
