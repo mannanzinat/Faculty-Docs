@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: OvoyLMS Documentation
+site_name: Faculty - LMS Documentation
 site_url:
 site_author: SpaGreen Creative
 site_description: >-
@@ -171,7 +171,7 @@ nav:
       - Misc. Setting: setup/misc.md
       - Payment Gateway:
         - setup/payment-gateway.md
-  - Usegs:
+  - Usage:
       - uses/index.md
       - Course:
         - uses/course-list.md
@@ -198,12 +198,13 @@ nav:
 
       - Media Library:
         - uses/media-library.md
+      - Website Settings:
+        - uses/website-settings.md
 
   - Changelog:
       - insiders/changelog.md
 
-      - Website Settings:
-        - uses/website-settings.md
+
 
 
   - Developer Guide:
