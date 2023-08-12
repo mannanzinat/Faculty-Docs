@@ -23,7 +23,7 @@ To Manage **OTP Setting** follow the procedures…
 
  You can add test number from right button.
 
-![OvoyLMS](/assets/ovoy/otp_settings.png)
+![FacultyLMS](../assets/faculty/otp_settings.png)
 
 
 
@@ -33,7 +33,7 @@ To Manage **OTP Setting** follow the procedures…
 
 Right now there are two templates available Login and Register. 
 
-![OvoyLMS](/assets/ovoy/sms_templates.png)
+![FacultyLMS](../assets/faculty/sms_templates.png)
 
 
 
@@ -41,4 +41,4 @@ Right now there are two templates available Login and Register.
 
  Here You can update login and registe template by editing with updated information.
 
-![OvoyLMS](/assets/ovoy/templates_edit.png)
+![FacultyLMS](../assets/faculty/templates_edit.png)

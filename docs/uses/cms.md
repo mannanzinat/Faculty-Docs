@@ -18,7 +18,7 @@ To Manage **CMS** follow the procedures…
 Here You can find all listed success story.
 
 
-![OvoyLMS](/assets/ovoy/success_story.png)
+![FacultyLMS](../assets/faculty/success_story.png)
 
 
 **Search Success Story**
@@ -52,7 +52,7 @@ Here You can find all listed success story.
 
  Here You can find all listed testimonial.
 
- ![OvoyLMS](/assets/ovoy/testimonial.png)
+ ![FacultyLMS](../assets/faculty/testimonial.png)
 
 **Search testimonial Story**
 

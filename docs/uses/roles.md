@@ -17,6 +17,6 @@ Manage Roles from the **Staff** in the left menu of the admin area.
 Add role have different role section like Roles, Badge, Blog Categories, Cities, Contacts,
 Coupons, Languages, Services, Staff and Organization.
 
-![OvoyLMS](/assets/ovoy/stuff_roles.png)
+![FacultyLMS](/assets/ovoy/stuff_roles.png)
 
 

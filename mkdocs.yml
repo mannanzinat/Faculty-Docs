@@ -23,8 +23,9 @@ site_name: Faculty - LMS Documentation
 site_url:
 site_author: SpaGreen Creative
 site_description: >-
-  Write your documentation in Markdown and create a professional static site in
-  minutes – searchable, customizable, in 60+ languages, for all devices
+  A complete eLearning management system build for every edu-tech platform,
+  which is committed to deliver effortless lms experience!
+
 
 # Repository
 repo_name:
@@ -171,6 +172,8 @@ nav:
       - Misc. Setting: setup/misc.md
       - Payment Gateway:
         - setup/payment-gateway.md
+      - SMS & OTP:
+        - uses/sms-otp.md
   - Usage:
       - uses/index.md
       - Course:
@@ -220,16 +223,14 @@ nav:
       - Website Settings:
         - uses/website-settings.md
 
-  - Changelog:
-      - insiders/changelog.md
-
-
-
-      - SMS & OTP:
-        - uses/sms-otp.md
-
   - Utility:
-      - utility/utility.md
+      - utility/index.md
 
   - Addon:
-      - Addon: addon/addons.md
+      - Addon:
+          addon/index.md
+  - Changelog:
+      - changelog/index.md
+
+
+

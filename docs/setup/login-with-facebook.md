@@ -10,10 +10,10 @@ To configure** Firebase** api follow the steps below.
 - Log into https://firebase.google.com/ using **email** and **password**.
 - Click on **Add Project** and then click **Create New Project** with require information
 
-![OvoyLMS](assets/ovoy/firebase.png)
-![OvoyLMS](assets/ovoy/firebase_2.png)
-![OvoyLMS](assets/ovoy/firebase_3.png)
-![OvoyLMS](assets/ovoy/firebase_4.png)
+![FacultyLMS](../assets/faculty/firebase.png)
+![FacultyLMS](../assets/faculty/firebase_2.png)
+![FacultyLMS](../assets/faculty/firebase_3.png)
+![FacultyLMS](../assets/faculty/firebase_4.png)
 
 - Now this credentials have to fill up in **System Setup -> Firebase.**
 

@@ -17,7 +17,7 @@ To Manage **Report** follow the procedures…
 
  Here You can find course sales list.
 
- ![OvoyLMS](/assets/ovoy/report_course_sales.png)
+ ![FacultyLMS](../assets/faculty/report_course_sales.png)
 
 
 **Filter Course Sale**
@@ -31,19 +31,19 @@ You can filter course sales by selecting course, category, organization and date
 **Payment History**
 You can find all payment history and can filter with payment type and date range.
 
- ![OvoyLMS](/assets/ovoy/report_payment_history.png)
+ ![FacultyLMS](../assets/faculty/report_payment_history.png)
 
 
 **Payout History**
 You can find all payout history and can filter with payment type and date range.
 
- ![OvoyLMS](/assets/ovoy/report_payout_history.png)
+ ![FacultyLMS](../assets/faculty/report_payout_history.png)
 
 
 **Book Sale**
 You can find all book sales list and can filter book sales by select top rated, categories, select writer and select new .
 
-![OvoyLMS](/assets/ovoy/report_book_sale.png)
+![FacultyLMS](../assets/faculty/report_book_sale.png)
 
 
 

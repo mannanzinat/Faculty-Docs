@@ -39,6 +39,6 @@ You can controll permission of instructor. Based on permission user will can per
  Here you can view all instructors and add new instructor with instructor Information .
 
 
-![OvoyLMS](/assets/ovoy/instructor_list.png)
+![FacultyLMS](../assets/faculty/instructor_list.png)
 
 

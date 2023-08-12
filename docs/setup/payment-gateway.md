@@ -20,4 +20,4 @@ To setup **Payment Gateway** follow the procedures…
   - **Paytm** – Insert the **Merchant Id**, **MarChant Key**, **MarChant Website**, **Channel**, **Industry Type**,  which you will get from your **Paytm account**.
 
 
-![OvoyLMS](/assets/ovoy/payment_gateway.png)
+![FacultyLMS](../assets/faculty/payment_gateway.png)

@@ -20,7 +20,7 @@ To Manage **System Update** follow the procedures…
 
  Here you can update your system with latest version .
 
-![OvoyLMS](/assets/ovoy/system_update.png)
+![FacultyLMS](../assets/faculty/system_update.png)
 
 
 
@@ -29,7 +29,7 @@ To Manage **System Update** follow the procedures…
  Here you can find various type of server information like system information, server information, extension 
 Library and file system permission . 
 
-![OvoyLMS](/assets/ovoy/server_information.png)
+![FacultyLMS](../assets/faculty/server_information.png)
 
 
 **Update Server Information**

@@ -10,5 +10,5 @@ To Manage **Certificates** follow the procedures…
 - Go to **Admin Panel** &  click **Course**
 - Then go to **Certificates** and here we can add and manage certificates  **Certificates** etc.
 
-![OvoyLMS](/assets/ovoy/all_certificate.png)
+![FacultyLMS](/assets/ovoy/all_certificate.png)
 

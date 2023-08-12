@@ -16,7 +16,7 @@ Yoori e-Commerce CMS supports **SMTP, SendGrid, MailGun, SendMail**
 - **Attention** (*This email setting is a must to verify email to send news to the subscriber.*)
 - Fill up the form as below:
 
-![OvoyLMS](assets/ovoy/Screenshot_16-1024x803.png)
+![FacultyLMS](assets/ovoy/Screenshot_16-1024x803.png)
 
 - **MAIL_DRIVER** – Email driver. Default smtp
 - **MAIL_HOST** – Email host e.g smtp.mailtrap.io

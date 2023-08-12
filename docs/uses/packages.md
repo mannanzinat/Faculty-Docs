@@ -11,9 +11,9 @@ From admin panel there is **Packages** option which is including for "Edit Packa
 &nbsp;
 
 
-![OvoyLMS](/assets/ovoy/all_package.png)
+![FacultyLMS](../assets/faculty/all_package.png)
 
 **Packages** option contain **Add Packages** option which is responsible to create custom packages by providing the **Package name**, **Description**, **Price** and so on.
 
-![OvoyLMS](/assets/ovoy/add_new_package.png)
+![FacultyLMS](../assets/faculty/add_new_package.png)
 

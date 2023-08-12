@@ -11,6 +11,6 @@ To Manage **Instructor** follow the procedures…
 - Here we can add new instructor with **First Name, Last Name,Phone Number, Email Address, Password, Confirm Password, Organization, Designation and Others** etc.
 
 
-![OvoyLMS](/assets/ovoy/add_instructor.png)
+![FacultyLMS](/assets/ovoy/add_instructor.png)
 
 

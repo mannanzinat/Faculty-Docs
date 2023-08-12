@@ -5,7 +5,7 @@ sidebar_label:   configure Facebook service
 
 # configure Facebook service
 
-[OvoyLMS](assets/ovoy/Screenshot_1-2-1024x342.png)
+[FacultyLMS](assets/ovoy/Screenshot_1-2-1024x342.png)
 
 - Go to left navigation bar and click  System **Setup > Facebook Service**
 - Turn on the **switch** of Facebook pixel

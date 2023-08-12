@@ -29,7 +29,7 @@ You can delete any staff by clicking Delete icon from right button.
  Here you can view all Staff list and add new Staff with appropriate Information .
 
 
-![OvoyLMS](/assets/ovoy/manage-staff.png)
-![OvoyLMS](/assets/ovoy/add-staff.png)
+![FacultyLMS](../assets/faculty/manage-staff.png)
+![FacultyLMS](../assets/faculty/add-staff.png)
 
 

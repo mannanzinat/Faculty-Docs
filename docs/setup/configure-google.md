@@ -5,7 +5,7 @@ sidebar_label:  Configure Google service
 
 # Configure Google service
 
-![OvoyLMS](assets/ovoy/Screenshot_2-1-1024x650.png)
+![FacultyLMS](../assets/faculty/Screenshot_2-1-1024x650.png)
 
 ### Google Analytics
 

@@ -12,7 +12,7 @@ From admin panel there is **Payout** option which contain three option.
 
 In **Payout Method** option there are three payout method with a status activation button.using this button the payout status will be avtive/inactive.
 
-![OvoyLMS](/assets/ovoy/payout_method.png)
+![FacultyLMS](../assets/faculty/payout_method.png)
 
 &nbsp;
 
@@ -21,7 +21,7 @@ In **Payout Method** option there are three payout method with a status activati
 
 In **payout Request** user need to provide the the information of **Organization**, **Payment Method**, **Amount** for requesting  a payment methaod.
 
-![OvoyLMS](/assets/ovoy/payout_request.png)
+![FacultyLMS](../assets/faculty/payout_request.png)
 
 &nbsp;
 
@@ -29,4 +29,4 @@ In **payout Request** user need to provide the the information of **Organization
  
  In **Payout Request List** all the privious payout request is shown.
 
- ![OvoyLMS](/assets/ovoy/payout_request_list.png)
+ ![FacultyLMS](../assets/faculty/payout_request_list.png)

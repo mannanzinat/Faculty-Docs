@@ -14,41 +14,41 @@ Download file from codecanyon and extract in your pc and you will get 03 folder.
 
 01.** Now login to your cpanel and go to > MySQL® Database Wizard**
 
-![Docusaurus Plushie](assets/ovoy/Screenshot-at-Feb-26-22-52-38-1024x490-1.png)
+![Docusaurus Plushie](../assets/faculty/install1.png)
 
 02. **Create database**
 
-![Docusaurus Plushie](assets/ovoy/Screenshot-at-Feb-26-22-55-15-1024x434-1.png)
+![Docusaurus Plushie](../assets/faculty/install2.png)
 
 03. **Create Database Users, do not forget to keep your database user password, we will need this while we run installation wizard.**
 
-![Docusaurus Plushie](assets/ovoy/Screenshot-at-Feb-26-22-56-19-1024x492-1.png)
+![Docusaurus Plushie](../assets/faculty/install3.png)
 
 04: **Add user to the database. check all privileges and click make changes. then click “Next Step” Database create is done, keep database user, database name, database password in a note.**
 
-![Docusaurus Plushie](assets/ovoy/download-1024x633-1.png)
+![Docusaurus Plushie](../assets/faculty/install4.png)
 
 05.** Upload installable file to server**
 
-![Docusaurus Plushie](assets/ovoy/Screenshot-at-Mar-05-23-45-21-1024x469-2.png)
+![Docusaurus Plushie](../assets/faculty/install5.png)
 
 06. **unzip the installable file to server**
 
-![Docusaurus Plushie](assets/ovoy/Screenshot-at-Mar-05-23-50-12-1024x680-1.png)
+![Docusaurus Plushie](../assets/faculty/install6.png)
 
 Check Permission of index.php file, make sure it’s file permission to 777
 
-![Docusaurus Plushie](assets/ovoy/image_2022_04_04T10_22_03_677Z.png)
+![Docusaurus Plushie](../assets/faculty/image_2022_04_04T10_22_03_677Z.png)
 
 ### Step : 03
 
 Open browser and hit you server URL. Example: https://example.com/
 
-![Docusaurus Plushie](assets/ovoy/Web-capture_8-4-2022_211833_localhost-787x1024.jpeg)
+![Docusaurus Plushie](../assets/faculty/faculty-installation-step1.png)
 
 If all the requirements are fulfilled then click on Next
 
-![Docusaurus Plushie](assets/ovoy/Web-capture_4-4-2022_121123_yoori-laravel.test_.jpeg)
+![Docusaurus Plushie](../assets/faculty/faculty-installation-step2.png)
 
 Your database connection details:
 

@@ -24,4 +24,4 @@ To Manage **Addons** follow the procedures…
 
 
 
-![OvoyLMS](/assets/ovoy/addons.png)
+![FacultyLMS](../assets/faculty/addons.png)

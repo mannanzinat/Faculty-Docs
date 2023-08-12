@@ -2,7 +2,7 @@
 
 ### System Requirements
 
-- Requires PHP Version: 7.4 or later
+- Requires PHP Version: 8.0.2 or later
 - Must have SSL enabled on the server
 - Database Support MySQL, Mysqli.
 - MySQL Supported Version: 5.x & 8.X

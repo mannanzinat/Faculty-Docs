@@ -30,7 +30,7 @@ You can delete any tag by clicking Delete icon from right button.
 
  Here you can view all tag list and add new tag with appropriate Information .
 
-![OvoyLMS](/assets/ovoy/tags.png)
-![OvoyLMS](/assets/ovoy/add_new_tag.png)
+![FacultyLMS](../assets/faculty/tags.png)
+![FacultyLMS](../assets/faculty/add_new_tag.png)
 
 

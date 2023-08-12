@@ -10,5 +10,5 @@ To Manage **Organization** from admin panel there are two option.
 
 From **Organization List** user can see the privious added organisation list.
 
-![OvoyLMS](/assets/ovoy/organisation_list.png)
+![FacultyLMS](/assets/ovoy/organisation_list.png)
 

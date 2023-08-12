@@ -7,7 +7,7 @@ sidebar_label:   Configure currency
 
 To configure **Chat Messenger**  follow the procedure mentioned below:
 
-![OvoyLMS](/assets/ovoy/chat_messanger.png)
+![FacultyLMS](../assets/faculty/chat_messanger.png)
 
 - Go to left navigation bar and click  **System Setup > Chat Messegner**
 - We can set **Facebook** and **Tawk**.

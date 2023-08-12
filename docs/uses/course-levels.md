@@ -30,7 +30,7 @@ You can delete any lavel by clicking Delete icon from right button.
 
  Here you can view all lavel list and add new lavel with appropriate Information .
 
-![OvoyLMS](/assets/ovoy/levels.png)
-![OvoyLMS](/assets/ovoy/add_new_level.png)
+![FacultyLMS](/assets/ovoy/levels.png)
+![FacultyLMS](/assets/ovoy/add_new_level.png)
 
 

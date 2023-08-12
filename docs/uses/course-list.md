@@ -32,10 +32,10 @@ You can delete any course by clicking Delete icon from right button.
 
 -Here you can view all course and also you can add new course with **Basic Information, Media & Images, Pricing, SEO** etc.
 
-![OvoyLMS](/assets/ovoy/course_list.png)
-![OvoyLMS](/assets/ovoy/add_course_basic_info.png)
-![OvoyLMS](/assets/ovoy/add_course_media_images.png)
-![OvoyLMS](/assets/ovoy/add_course_pricing.png)
-![OvoyLMS](/assets/ovoy/course_seo.png)
+![FacultyLMS](../assets/faculty/course_list.png)
+![FacultyLMS](../assets/faculty/add_course_basic_info.png)
+![FacultyLMS](../assets/faculty/add_course_media_images.png)
+![FacultyLMS](../assets/faculty/add_course_pricing.png)
+![FacultyLMS](../assets/faculty/course_seo.png)
 
 

@@ -25,10 +25,10 @@ To Manage **Students** follow the procedures…
 
  Here you can view all students list and add new student with students Information etc.
 
-![OvoyLMS](/assets/ovoy/all_student.png)
+![FacultyLMS](../assets/faculty/all_student.png)
 
 **Add Students**
 
-![OvoyLMS](/assets/ovoy/add_student.png)
+![FacultyLMS](../assets/faculty/add_student.png)
 
 

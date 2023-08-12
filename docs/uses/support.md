@@ -34,10 +34,10 @@ You can add new ticket by adding first name, last name, email, subject, departme
 Here you can see all department list and can add new department with department title and status.
 
 
-![OvoyLMS](/assets/ovoy/all_tickets.png)
+![FacultyLMS](/assets/ovoy/all_tickets.png)
 
-![OvoyLMS](/assets/ovoy/add_new_ticket.png)
+![FacultyLMS](/assets/ovoy/add_new_ticket.png)
 
 
-![OvoyLMS](/assets/ovoy/ticket_details.png)
+![FacultyLMS](/assets/ovoy/ticket_details.png)
 
