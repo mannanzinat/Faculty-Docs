@@ -242,12 +242,12 @@ nav:
         - Social Login Setup: studentApp/social-login-setup.md
         - Change Api Server Details: studentApp/change-api-server-details.md
         - Change App Logo: studentApp/change-app-logo.md
-        - Chagne Splash Screen Logo: studentApp/change-splash-screen-logo.md
+        - Change Splash Screen Logo: studentApp/change-splash-screen-logo.md
 
       - Android Setup:
-        - Chagne App Name: studentApp/change-app-name.md
-        - Chagne Android Luncher Icon: studentApp/chaneg-android-luncher-icon.md
-        - Chagne Android Package Name: studentApp/change-android-package-name.md
+        - Change App Name: studentApp/change-app-name.md
+        - Change Android Luncher Icon: studentApp/chaneg-android-luncher-icon.md
+        - Change Android Package Name: studentApp/change-android-package-name.md
         - Generate Debug APK: studentApp/generate-debug-apk.md
         - Generate Signed APK: studentApp/generate-signed-apk.md
 
