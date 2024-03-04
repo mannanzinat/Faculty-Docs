@@ -2,26 +2,125 @@
 title:  Website Setup & Content
 sidebar_label:  Website Setup & Content
 ---
+Different **website settings** can be updated and changed from here. It brings customizable access to change it anytime and update features quite seamlessly.
+
+![SaleBot](../assets/screenshots/website_settings.png)
 
 # Theme Option
 
-**Yoori** supports **local** as well as **Amazon S3** for storage managing. You can either choose the **local** or **S3** for storage. . For **Amazon S3** you have to provide the required data. Details given below:
+| Title            | Description           |
+|------------------|-----------------------|
+| **Theme Option**  | Different Theme options can be set from here includes light logo, dark logo, icon, fonts. |
 
-- For Amazon S3 you have to provide the required data
-![FacultyLMS](../assets/screenshots/storage_settings.png)
+-----
 
-- For **S3** you will need to provide your **aws_access_key_id, aws_secret_key_id, default_region and aws_bucket**.
-- Get your data from Amazon S3, for  [help click here](https://medium.com/@shamnad.p.s/how-to-create-an-s3-bucket-and-aws-access-key-id-and-secret-access-key-for-accessing-it-5653b6e54337)..
-- You must need to make sure that provided credentials are correct.
-- Go to left navigation bar and click  **System Setup > Storage**
-# Hero
+# Menu
+| Title            | Description                                                       |
+|------------------|-------------------------------------------------------------------|
+| **Menu Section** | Menu Options can be set from here by providing the correct route. |
 
-**Yoori** supports **local** as well as **Amazon S3** for storage managing. You can either choose the **local** or **S3** for storage. . For **Amazon S3** you have to provide the required data. Details given below:
+---
 
-- For Amazon S3 you have to provide the required data
-  ![FacultyLMS](../assets/screenshots/storage_settings.png)
+# Section Title 
+| Title             | Description                                                                                   |
+|-------------------|-----------------------------------------------------------------------------------------------|
+| **Section Title** | Website's landing pages different section's heading and sub-heading can be changed from here. |
 
-- For **S3** you will need to provide your **aws_access_key_id, aws_secret_key_id, default_region and aws_bucket**.
-- Get your data from Amazon S3, for  [help click here](https://medium.com/@shamnad.p.s/how-to-create-an-s3-bucket-and-aws-access-key-id-and-secret-access-key-for-accessing-it-5653b6e54337)..
-- You must need to make sure that provided credentials are correct.
-- Go to left navigation bar and click  **System Setup > Storage**
+---
+
+# Hero Section
+| Title            | Description                                                |
+|------------------|------------------------------------------------------------|
+| **Hero Section** | Website's hero section's content can be updated from here. |
+
+---
+
+# Partner Logo
+| Title            | Description                                               |
+|------------------|-----------------------------------------------------------|
+| **Partner Logo** | From this section, partner's logo can be added from here. |
+
+---
+# Story
+| Title     | Description                                             |
+|-----------|---------------------------------------------------------|
+| **Story** | Different story with images and message can be updated. |
+
+---
+
+# Unique Feature
+| Title              | Description                                                          |
+|--------------------|----------------------------------------------------------------------|
+| **Unique Feature** | Unique features provide the exclusive information about the website. |
+
+---
+
+# Feature
+| Title       | Description                                                                                  |
+|-------------|----------------------------------------------------------------------------------------------|
+| **Feature** | Feature provide the information about the core and exclusive usable features of the website. |
+
+---
+
+# AI Chat
+| Title       | Description                                                          |
+|-------------|----------------------------------------------------------------------|
+| **AI Chat** | AI chat give the option to get connected with different AI features. |
+
+---
+
+# Testimonials
+| Title            | Description                                                                                                 |
+|------------------|-------------------------------------------------------------------------------------------------------------|
+| **Testimonials** | Customer's review and user experience are being shown from here. It provides perspective about the product. |
+
+---
+
+# FAQ
+| Title   | Description                                                    |
+|---------|----------------------------------------------------------------|
+| **FAQ** | This section shows some prominent questions about the product. |
+
+---
+
+# Footer Content
+| Title              | Description                                            |
+|--------------------|--------------------------------------------------------|
+| **Footer Content** | Footer content shows the necessary links and contents. |
+
+---
+
+# Website SEO and OG
+| Title                  | Description                                                                  |
+|------------------------|------------------------------------------------------------------------------|
+| **Website SEO and OG** | Website's SEO and open graph related different options can be set from here. |
+
+---
+
+# Custom JS
+| Title         | Description                                             |
+|---------------|---------------------------------------------------------|
+| **Custom JS** | Custom JS for the website can be set from this section. |
+
+---
+
+# Custom CSS
+| Title          | Description                                              |
+|----------------|----------------------------------------------------------|
+| **Custom CSS** | Custom CSS for the website can be set from this section. |
+
+---
+
+# Google Setup
+| Title            | Description                                                  |
+|------------------|--------------------------------------------------------------|
+| **Google Setup** | Google Recaptcha and Analytics can be set from this section. |
+
+---
+
+# Facebook Pixel
+| Title              | Description                                              |
+|--------------------|----------------------------------------------------------|
+| **Facebook Pixel** | Facebook pixel can be set up through providing pixel ID. |
+
+---
