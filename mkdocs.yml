@@ -19,20 +19,18 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Faculty - LMS Documentation
+site_name: SaleBot - Documentation
 site_url:
 site_author: SpaGreen Creative
 site_description: >-
-  A complete eLearning management system build for every edu-tech platform,
-  which is committed to deliver effortless lms experience!
-
+  SaleBot, developed by SpaGreen Creative, is a WhatsApp and Telegram Marketing Software as a Service (SaaS) script available for purchase on the CodeCanyon marketplace.
 
 # Repository
 repo_name:
 repo_url:
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2023 SpaGreen Creative
+copyright: Copyright &copy; 2019 - 2024 SpaGreen Creative
 
 # Configuration
 theme:
@@ -170,7 +168,7 @@ nav:
       - Misc. Setting: setup/misc.md
       - Payment Gateway:
         - setup/payment-gateway.md
-     
+
   - Usage:
       - uses/index.md
       - Course:
@@ -228,7 +226,7 @@ nav:
           addon/index.md
   - Changelog:
       - changelog/index.md
-  
+
 
 
 
