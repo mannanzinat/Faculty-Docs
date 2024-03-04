@@ -19,20 +19,18 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Faculty - LMS Documentation
+site_name: Documentation
 site_url:
 site_author: SpaGreen Creative
 site_description: >-
-  A complete eLearning management system build for every edu-tech platform,
-  which is committed to deliver effortless lms experience!
-
+  SaleBot, developed by SpaGreen Creative, is a WhatsApp and Telegram Marketing Software as a Service (SaaS) script available for purchase on the CodeCanyon marketplace.
 
 # Repository
 repo_name:
 repo_url:
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2023 SpaGreen Creative
+copyright: Copyright &copy; 2019 - 2024 SpaGreen Creative
 
 # Configuration
 theme:
@@ -64,17 +62,17 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - scheme: default
-      primary: green
-      accent: green
+    - scheme:
+      primary: indigo
+      accent:
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: green
-      accent: green
+      primary: indigo
+      accent:
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: Switch to light mode
   font:
     text: Jost
@@ -100,12 +98,12 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/spagreen
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/spagreen/
     - icon: fontawesome/brands/facebook
       link: https://facebook.com/spagreencreative
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/spagreenbd
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@spagreen
 
 # Extensions
 markdown_extensions:
@@ -156,26 +154,30 @@ nav:
     - Introducing: getting-started.md
     - Requirements: requirements.md
     - Installation: installation.md
-  - Setup:
-      - setup/index.md
-      - General Setting: setup/general.md
-      - Preference: setup/preference.md
-      - Currency Setting: setup/currency.md
-      - Email Setting: setup/email.md
-      - Language Setting: setup/language.md
-      - Cache Setting: setup/cache.md
-      - Admin Panel Setting: setup/admin-panel.md
-      - Firebase Setting: setup/firebase.md
-      - Storage Setting: setup/storage.md
-      - Chat Setting: setup/chat.md
-      - Refund Setting: setup/refund.md
-      - Misc. Setting: setup/misc.md
+  - Admin Setup:
+      - General Setting: admin-setup/general.md
+      - Preference: admin-setup/preference.md
+      - Currency Setting: admin-setup/currency.md
+      - Email Setting: admin-setup/email.md
+      - Language Setting: admin-setup/language.md
+      - Cache Setting: admin-setup/cache.md
+      - Admin Panel Setting: admin-setup/admin-panel.md
+      - Firebase Setting: admin-setup/firebase.md
+      - Storage Setting: admin-setup/storage.md
+      - Misc. Setting: admin-setup/misc.md
       - Payment Gateway:
-        - setup/payment-gateway.md
-      - SMS & OTP:
-        - uses/sms-otp.md
+        - admin-setup/payment-gateway.md
+      - Website Setting:
+        - admin-setup/website.md
+      - Pages:
+        - admin-setup/pages.md
+
+  - Client Setup:
+      - WhatsApp:
+        - client/whatsapp.md
+      - Telegram:
+          - client/telegram.md
   - Usage:
-      - uses/index.md
       - Course:
         - uses/course-list.md
         - uses/course-category.md
@@ -226,11 +228,17 @@ nav:
   - Utility:
       - utility/index.md
 
-  - Addon:
-      - Addon:
-          addon/index.md
-  - Changelog:
-      - changelog/index.md
+
+
+
+
+
+
+
+
+
+
+
 
 
 
