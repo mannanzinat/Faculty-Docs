@@ -225,12 +225,6 @@ nav:
   - Utility:
       - utility/index.md
 
-  - Addon:
-      - Addon:
-          addon/index.md
-  - Changelog:
-      - changelog/index.md
-
 
 
 
