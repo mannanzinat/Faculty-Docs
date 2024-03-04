@@ -155,19 +155,22 @@ nav:
     - Requirements: requirements.md
     - Installation: installation.md
   - Admin Setup:
-      - General Setting: setup/general.md
-      - Preference: setup/preference.md
-      - Currency Setting: setup/currency.md
-      - Email Setting: setup/email.md
-      - Language Setting: setup/language.md
-      - Cache Setting: setup/cache.md
-      - Admin Panel Setting: setup/admin-panel.md
-      - Firebase Setting: setup/firebase.md
-      - Storage Setting: setup/storage.md
-      - Misc. Setting: setup/misc.md
+      - General Setting: admin-setup/general.md
+      - Preference: admin-setup/preference.md
+      - Currency Setting: admin-setup/currency.md
+      - Email Setting: admin-setup/email.md
+      - Language Setting: admin-setup/language.md
+      - Cache Setting: admin-setup/cache.md
+      - Admin Panel Setting: admin-setup/admin-panel.md
+      - Firebase Setting: admin-setup/firebase.md
+      - Storage Setting: admin-setup/storage.md
+      - Misc. Setting: admin-setup/misc.md
       - Payment Gateway:
-        - setup/payment-gateway.md
-
+        - admin-setup/payment-gateway.md
+      - Website Setting:
+        - admin-setup/website.md
+      - Pages:
+        - admin-setup/pages.md
 
   - Client Setup:
       - WhatsApp:
