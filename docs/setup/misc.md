@@ -10,5 +10,5 @@ To setup **Miscellaneous Settings** follow the procedures…
 - Go to **Admin Panel** &  click **System Settings**
 - Then go to **Miscellaneous** and here we can set **Pagination size, Api pagination size, Index form pagination size, Media pagination size, Order/Invoice prefix** etc.
 
-![FacultyLMS](../assets/faculty/miscellaneous_setting.png)
+![SaleBot](../assets/screenshots/miscellaneous_settings.png)
 

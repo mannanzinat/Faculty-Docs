@@ -14,10 +14,9 @@ To setup **Payment Gateway** follow the procedures…
 
   - **Paypal** – Insert the **paypal client ID**, **Client secret** and switch off the **sandbox mode**(which for demo transactions). Then click on **save**. 
   - **Stripe** – Insert the **stripe key**, **stripe secret** which you will get from your **stripe account** and switch off the sandbox mode(which for demo transactions).Then click on **save**.
-  - **Razorpay** – Insert the **razorpay key**, **razorpay secret** which you will get from your **razorpay account**.
-  - **SSlCommerz** – Insert the **SSLCZ store ID**, **SSLCZ store password** and switch off the sandbox mode. Then click on **save**.
-  - **JazzCash** – Insert the **Merchant Id**, **JazzCash Password**, **Integrity Salt** which you will get from your **JazzCash account**.
-  - **Paytm** – Insert the **Merchant Id**, **MarChant Key**, **MarChant Website**, **Channel**, **Industry Type**,  which you will get from your **Paytm account**.
+  - **Paddle** – Insert the **api key**, **client token** which you will get from your **paddle account** and switch off the sandbox mode(which for demo transactions).Then click on **save**
+  - **Offline** –**offline payment settings** which you can set your own offline payment method details.
+  
 
 
-![FacultyLMS](../assets/faculty/payment_gateway.png)
+![SaleBot](../assets/screenshots/payment_gateway_settings.png)

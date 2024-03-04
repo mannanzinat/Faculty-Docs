@@ -5,7 +5,7 @@ sidebar_label:  Setup language
 
 # Setup language
 
-![FacultyLMS](../assets/faculty/language_settings.png)
+![SaleBot](../assets/screenshots/language_settings.png)
 
 To configure **Language** follow the procedure mentioned below:
 
