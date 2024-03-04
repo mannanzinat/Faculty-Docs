@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: SaleBot - Documentation
+site_name: Documentation
 site_url:
 site_author: SpaGreen Creative
 site_description: >-
@@ -62,17 +62,17 @@ theme:
     - toc.follow
     # - toc.integrate
   palette:
-    - scheme: default
-      primary: green
-      accent: green
+    - scheme:
+      primary: indigo
+      accent:
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: green
-      accent: green
+      primary: indigo
+      accent:
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: Switch to light mode
   font:
     text: Jost
@@ -98,12 +98,12 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/spagreen
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/spagreen/
     - icon: fontawesome/brands/facebook
       link: https://facebook.com/spagreencreative
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/spagreenbd
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@spagreen
 
 # Extensions
 markdown_extensions:
@@ -154,8 +154,7 @@ nav:
     - Introducing: getting-started.md
     - Requirements: requirements.md
     - Installation: installation.md
-  - Setup:
-      - setup/index.md
+  - Admin Setup:
       - General Setting: setup/general.md
       - Preference: setup/preference.md
       - Currency Setting: setup/currency.md
@@ -169,8 +168,13 @@ nav:
       - Payment Gateway:
         - setup/payment-gateway.md
 
+
+  - Client Setup:
+      - WhatsApp:
+        - client/whatsapp.md
+      - Telegram:
+          - client/telegram.md
   - Usage:
-      - uses/index.md
       - Course:
         - uses/course-list.md
         - uses/course-category.md
