@@ -39,7 +39,8 @@ To setup **Webhook** with **Whatsapp API credentials**  follow the procedures…
 
 - Go to **Client Module** &  click **Settings**
 - Then paste **Token**,**Phone Number ID** and **Whatsapp Business Account ID**. After completing the setup, you can access whatsapp features
-## whatsapp_1
+
+![SaleBot](../assets/screenshots/webhook_access_token.png)
 
 ![SaleBot](../assets/screenshots/whatsapp_2.png)
 
