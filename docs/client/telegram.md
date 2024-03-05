@@ -3,12 +3,38 @@ title:   Connect Telegram
 sidebar_label:    Connect Telegram
 ---
 
-# Step1 Create Facebook Developer App
-To setup **General Settings** follow the procedures…
+# Step1 Create Telegram Bot
+To setup **Telegram Bot** follow the procedures…
 
 
-- Go to **Admin Panel** &  click **System Settings**
-- Then go to **General Settings** and here we can set **system name, default language, currency, icon** etc.
+- Go to **Telegram** &  search **BotFather** for creating a **telegram bot**
 
-![FacultyLMS](../assets/faculty/general_settings.png)
+![SaleBot](../assets/screenshots/telegram_1.png)
+
+- Then type **/newbot** &  you can procedure for next steps.
+
+![SaleBot](../assets/screenshots/telegram_2.png)
+
+- Then you should set **name** &  **username** for the bot. Must use **bot** at the end of username.
+- You will get **access token** from that message.
+
+![SaleBot](../assets/screenshots/telegram_3.png)
+
+# Step2 Connect With Webhook
+
+- Go to settings of the **client module** and paste the **access token**.
+- Then you will be connected with the telegram module.
+
+![SaleBot](../assets/screenshots/telegram_access_token.png)
+
+# Step3 Make the bot as group admin
+
+- After connecting with the module you need to make the bot as your operating group **admin**.
+
+![SaleBot](../assets/screenshots/telegram_4.png)
+
+![SaleBot](../assets/screenshots/telegram_5.png)
+
+![SaleBot](../assets/screenshots/telegram_6.png)
+
 

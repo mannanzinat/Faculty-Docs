@@ -18,7 +18,6 @@ Yoori e-Commerce CMS supports **SMTP, SendGrid, MailGun, SendMail**
 
 ![SaleBot](../assets/screenshots/email_settings.png)
 
-- **MAIL_DRIVER** – Email driver. Default smtp
 - **MAIL_HOST** – Email host e.g smtp.mailtrap.io
 - **MAIL_PORT** – Outgoing email port e.g 2525 or 465
 - **MAIL_USERNAME** – Outgoing email username
