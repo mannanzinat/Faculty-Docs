@@ -1,22 +1,22 @@
 ---
-title:   Manage Roles
-sidebar_label:    Manage Roles
+title:   Roles
+sidebar_label:    Roles.
 ---
 
-# Manage Roles
-To Manage **Course Roles** follow the procedures…
+# Roles
+To Manage **Roles** related settings for your application follow the procedures…
 
 
-Manage Roles from the **Staff** in the left menu of the admin area.
+- Go to **Admin Panel** &  click **Staff** and can see two options *All Staff* and *Roles*
+- Here you can add new roles for the website.
 
-&nbsp;
+![SaleBot](../assets/screenshots/staff_roles_1.png)
 
-**Add Role**
+- You can also turn on or turn off specific roles.
 
--You can add new Roles from select **Add Role** button from right of the admin area.
-Add role have different role section like Roles, Badge, Blog Categories, Cities, Contacts,
-Coupons, Languages, Services, Staff and Organization.
+![SaleBot](../assets/screenshots/staff_roles_2.png)
 
-![FacultyLMS](/assets/ovoy/stuff_roles.png)
+
+
 
 

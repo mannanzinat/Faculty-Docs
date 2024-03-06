@@ -1,43 +1,44 @@
 ---
-title:   Manage Support
-sidebar_label:    Manage Support
+title:   Support
+sidebar_label:  Support
 ---
 
-
-# Manage Support
-To Manage **Support** follow the procedures…
-
- Manage Ticket and Department from the **Support** in the left menu of the admin area.
-
-&nbsp;
+# Support
+To Manage **Support** related settings for your application follow the procedures.
 
 
-**Ticket Overview**
+- Go to **Admin Panel** &  click **Support** for related settings.
+- You can see all the tickets and their status.
 
- You can find ticket overview like open tickets, on hold ticket, pending and closed ticket.
+![SaleBot](../assets/screenshots/ticket_1.png)
+
+- You can see the details of the ticket.
+
+![SaleBot](../assets/screenshots/ticket_2.png)
+
+- You can add new ticket.
+
+![SaleBot](../assets/screenshots/ticket_3.png)
+
+- You can add new department for different ticket options.
+
+![SaleBot](../assets/screenshots/department_1.png)
+
+- You can edit the details of the department.
+
+![SaleBot](../assets/screenshots/department_2.png)
+
+- You can edit the details of the department.
+
+![SaleBot](../assets/screenshots/department_3.png)
+
+- You can delete any department.
+
+![SaleBot](../assets/screenshots/department_4.png)
 
 
-**Search Ticket**
-
- You can search ticket by ticket title.
-
- Here you can view all ticket list and add new notification with appropriate Information.
 
 
-**Add New Ticket**
-
-You can add new ticket by adding first name, last name, email, subject, department, priority and description.
 
 
-**Department**
-
-Here you can see all department list and can add new department with department title and status.
-
-
-![FacultyLMS](/assets/ovoy/all_tickets.png)
-
-![FacultyLMS](/assets/ovoy/add_new_ticket.png)
-
-
-![FacultyLMS](/assets/ovoy/ticket_details.png)
 

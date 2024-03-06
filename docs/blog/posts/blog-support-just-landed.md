@@ -8,7 +8,6 @@ categories:
   - Blog
 links:
   - Getting started with Insiders: insiders/getting-started.md#requirements
-  - setup/setting-up-a-blog.md#built-in-blog-plugin
 ---
 
 # Blog support just landed
