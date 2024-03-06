@@ -32,7 +32,9 @@ To Manage **Whatsapp** related features for your application follow the procedur
 
 ![SaleBot](../assets/screenshots/whatsapp6.png)
 
-- Templates can be added from your **developer.facebook.com** account and can load templates here. 
+- Templates can be added from your **[developer.facebook.com](https://business.facebook.com/wa/manage/message-templates/)** account and can load templates here. 
+
+![SaleBot](../assets/screenshots/whatsapp8.png)
 
 ![SaleBot](../assets/screenshots/whatsapp7.png)
 
