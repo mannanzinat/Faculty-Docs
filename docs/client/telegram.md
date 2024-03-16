@@ -37,4 +37,14 @@ To setup **Telegram Bot** follow the procedures…
 
 ![SaleBot](../assets/screenshots/telegram_6.png)
 
+# Step4 Send a test message from the group in order to access features from website
+
+- You need to send a **test message** from your **created group**.
+
+![SaleBot](../assets/screenshots/telegram_7.png)
+
+- Then,if you reload your **telegram module**, you can get all the details of the **group** you have created and also can see the **subscriber's list**.
+
+![SaleBot](../assets/screenshots/telegram_8.png)
+
 
