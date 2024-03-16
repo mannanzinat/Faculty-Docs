@@ -14,41 +14,41 @@ Download file from codecanyon and extract in your pc and you will get 03 folder.
 
 01.** Now login to your cpanel and go to > MySQL® Database Wizard**
 
-![Docusaurus Plushie](../assets/screenshots/install/install1.png)
+![Docusaurus Plushie](../assets/install/install1.png)
 
 02. **Create database**
 
-![Docusaurus Plushie](../assets/screenshots/install/install2.png)
+![Docusaurus Plushie](../assets/install/install2.png)
 
 03. **Create Database Users, do not forget to keep your database user password, we will need this while we run installation wizard.**
 
-![Docusaurus Plushie](../assets/screenshots/install/install3.png)
+![Docusaurus Plushie](../assets/install/install3.png)
 
 04: **Add user to the database. check all privileges and click make changes. then click “Next Step” Database create is done, keep database user, database name, database password in a note.**
 
-![Docusaurus Plushie](../assets/screenshots/install/install4.png)
+![Docusaurus Plushie](../assets/install/install4.png)
 
 05.** Upload installable file to server**
 
-![Docusaurus Plushie](../assets/screenshots/install/install5.png)
+![Docusaurus Plushie](../assets/install/install5.png)
 
 06. **unzip the installable file to server**
 
-![Docusaurus Plushie](../assets/screenshots/install/install6.png)
+![Docusaurus Plushie](../assets/install/install6.png)
 
 Check Permission of index.php file, make sure it’s file permission to 777
 
-![Docusaurus Plushie](../assets/screenshots/install/permission.png)
+![Docusaurus Plushie](../assets/install/permission.png)
 
 ### Step : 03
 
 Open browser and hit you server URL. Example: https://example.com/
 
-![Docusaurus Plushie](../assets/screenshots/install/installation-step-1.png)
+![Docusaurus Plushie](../assets/install/installation-step-1.png)
 
 If all the requirements are fulfilled then click on Next
 
-![Docusaurus Plushie](../assets/screenshots/install/installation-step-2.png)
+![Docusaurus Plushie](../assets/install/installation-step-2.png)
 
 Your database connection details:
 
